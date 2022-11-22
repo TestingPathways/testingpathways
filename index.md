@@ -5,7 +5,9 @@ layout: home
 
 # Your Career in Testing Starts Here
 
-## Community driven, open source, learning pathways which guide you at your own pace.  
+## Community Driven, Open Source and Free
+
+learning pathways which guide you at your own pace
 
 [Lets Get Started](http://www.testingpathways.com/pathways){: .btn .btn-green }
 
@@ -15,7 +17,7 @@ Whether you're just starting out, or wanting to add to your existing skills and 
 
 This project was started by a tester, collaboratively created and built up by testers and with the sole purpose of helping testers get a free and good education, guided from a central location, with the support of a diverse testing community behind you. 
 
-## We are Open Source at our coreT
+## We are Open Source at our core
 
 The website is hosted on [GitHub pages](https://github.com/TestingPathways/testingpathways), using an [open source template](https://just-the-docs.github.io/just-the-docs/). 
 
