@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: Pathways
 nav_order: 1
 has_children: true
 ---
