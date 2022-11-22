@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-#Your Career in Testing Starts Here
+# Your Career in Testing Starts Here
 
 Community driven, open source, learning pathways which guide you at your own pace.  Whether you're just starting out, or wanting to add to your existing skills and level up, there's a learning journey for you.
 
