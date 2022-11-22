@@ -4,6 +4,7 @@ layout: home
 ---
 
 #Your Career in Testing Starts Here
+
 Community driven, open source, learning pathways which guide you at your own pace.  Whether you're just starting out, or wanting to add to your existing skills and level up, there's a learning journey for you.
 
 This project was started by a tester, collaboratively created and built up by testers and with the sole purpose of helping testers get a free and good education, guided from a central location, with the support of a diverse testing community behind you. 
