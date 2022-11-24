@@ -11,4 +11,20 @@ Here we will list the different pathways that you can take
 
 ![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png) 
 Fundamentals 
-{: .fs-10 .mx-auto }
+{: .fs-10 }
+
+![Manual Testing Pathway Icon](/docs/assets/images/IconPathManual.png) 
+Manual Testing
+{: .fs-10 }
+
+![Automated Testing Pathway Icon](/docs/assets/images/IconPathAutomated.png) 
+Automated Testing 
+{: .fs-10 }
+
+![Non Functional Testing Pathway Icon](/docs/assets/images/IconPathNonFunctional.png) 
+Non Functional Testing
+{: .fs-10 }
+
+![Advanced Techniques Pathway Icon](/docs/assets/images/IconPathAdvanced.png) 
+Advanced Techniques
+{: .fs-10 }
