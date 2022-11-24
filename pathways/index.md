@@ -9,4 +9,4 @@ has_children: false
 
 Here we will list the different pathways that you can take
 
-![Fundamentals Pathway Icon(/../assets/images/IconPathFundamentals.png)
+![Fundamentals Pathway Icon(/assets/images/IconPathFundamentals.png)
