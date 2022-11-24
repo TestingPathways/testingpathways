@@ -9,4 +9,5 @@ has_children: false
 
 Here we will list the different pathways that you can take
 
-![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png) Fundamentals {: .fs-10 }
+![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png) Fundamentals 
+{: .fs-10 }
