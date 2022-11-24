@@ -10,6 +10,5 @@ has_children: false
 Here we will list the different pathways that you can take
 
 ![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png) 
-
 Fundamentals 
-{: .fs-10 }
+{: .fs-10 .mx-auto }
