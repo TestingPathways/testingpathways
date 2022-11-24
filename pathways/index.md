@@ -9,4 +9,4 @@ has_children: false
 
 Here we will list the different pathways that you can take
 
-!(/../main/images/IconPathFundamentals.png)
+!(/../images/IconPathFundamentals.png)
