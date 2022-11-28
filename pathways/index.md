@@ -28,3 +28,7 @@ Non Functional Testing
 ![Advanced Techniques Pathway Icon](/docs/assets/images/IconPathAdvanced.png)
 Advanced Techniques
 {: .fs-8 }
+
+![Soft Skills Pathway Icon](/docs/assets/images/IconPathSoftSkills.png)
+Soft Skills
+{: .fs-8 }
