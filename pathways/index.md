@@ -8,10 +8,9 @@ has_children: false
 <p align="center">
     <h1 align="center">Pick a Pathway</h1>
     <p align="center">You choose the right pathway for your learning needs<br>Learn at your own speed, wherever and whenever you want</p>
-    <p align="center">![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png)</p>
-    <p align="center">Fundamentals 
-{: .fs-8 }</p>
-    <br><br><br>
+    <p align="center"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learing path icon and link"></p>
+    <h2 align="center">Fundamentals</h2>
+    <br>
 </p>
 
 ![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png)
