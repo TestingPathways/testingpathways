@@ -33,11 +33,27 @@ We're always looking for talented testers to add to the curriculum.
 - Have you recently learned something new?  Why not document what you found the most useful and add it to one of our pathways.
 - Do you train junior staff at work?  Then please, come and share your knowledge here too.
 
-The pathways are managed as pages within this website under the ./pathways/ folder. 
+Bug reports and pull requests are welcome on GitHub at https://github.com/TestingPathways/testingpathways. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-DETAILS OF HOW TO CHECKOUT AND DO PULL REQUESTS TO BE ADDED HERE
+### Submitting code changes:
 
+- Submit an [Issue](https://github.com/TestingPathways/testingpathways/issues) to motivate someone to update a guided path
+- Discuss the proposed changes with others on the [Slack Community](https://github.com/TestingPathways/testingpathways)
+- Open a [Pull Request](https://github.com/TestingPathways/testingpathways/pulls) to add changes to the pathways
+- Ensure all CI tests pass
+- Await code review to ensure the high quality of your change / addition to the pathway content
 
-## Webstite Template Style Guides
+### Design and development principles:
+
+1. Link to free content first, adding high quality paid content only as a secondary alternative to further the learners education
+2. Use the pathways template
+3. Make the content fun and friendly to follow
+4. Make the content shine
+
+### Webstite Template Style Guides
 
 Visit [Just the Docs Documentation](https://just-the-docs.github.io/just-the-docs/) to learn more about how to use this theme when editing pages and pathways content.
+
+## License
+
+These pathways are available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
