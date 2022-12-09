@@ -5,9 +5,14 @@ nav_order: 2
 has_children: false
 ---
 
-# The Start of your Learning Journey
-
-Here we will list the different pathways that you can take
+<p align="center">
+    <h1 align="center">Pick a Pathway</h1>
+    <p align="center">You choose the right pathway for your learning needs<br>Learn at your own speed, wherever and whenever you want</p>
+    <p align="center">![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png)</p>
+    <p align="center">Fundamentals 
+{: .fs-8 }</p>
+    <br><br><br>
+</p>
 
 ![Fundamentals Pathway Icon](/docs/assets/images/IconPathFundamentals.png)
 Fundamentals 
