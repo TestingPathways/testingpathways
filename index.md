@@ -8,8 +8,7 @@ nav_order: 1
 
 ## Community Driven, Open Source and Free
 
-A series of learning pathways which guide you at your own pace.  Whether you're a beginner or a senior tester, there's something for everyone, the pathways are designed to build upon each other, giving you both a solid foundation in testing and advanced skills too. {: .fs-6 .fw-300 }
-
+A series of learning pathways which guide you at your own pace.  Whether you're a beginner or a senior tester, there's something for everyone, the pathways are designed to build upon each other, giving you both a solid foundation in testing and advanced skills too.{: .fs-6 .fw-300 }
 
 [Lets Get Started](http://www.testingpathways.com/pathways){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
