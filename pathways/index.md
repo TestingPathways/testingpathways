@@ -8,6 +8,7 @@ has_children: true
 <p align="center">
     <h1 align="center">Pick a Pathway</h1>
     <p align="center">You choose the right pathway for your learning needs<br>Learn at your own speed, wherever and whenever you want</p>
+    <br>
     <p align="center" style="font-size:200%"><a href="./fundamentals/index-fundamentals.html"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learing path icon and link"><a/><br><a href="./fundamentals/index-fundamentals.html">Fundamentals<a/>
     <br><br>
     <p align="center" style="font-size:200%"><a href="./manual-testing/index-manual-testing.html"><img src="/docs/assets/images/IconPathManual.png" alt="Manual testing learing path icon and link"><a/><br><a href="./manual-testing/index-manual-testing.html">Manual Testing<a/>
