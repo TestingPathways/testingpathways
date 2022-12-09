@@ -1,8 +1,7 @@
-# Welcome to Testing Pathways, the Open Source Testing Curriculum
 <p align="center">
     <h1 align="center">Testing Pathways</h1>
     <p align="center">Open source guided learning<br>Created by the testing community, for the testing community</p>
-    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">See it in action!</a></strong></p>
+    <p align="center"><strong><a href="http://www.testingpathways.com">Start Learning...</a></strong></p>
     <br><br><br>
 </p>
 
