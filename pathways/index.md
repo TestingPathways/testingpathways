@@ -10,7 +10,7 @@ has_children: true
     <br><br>
     <p align="center">You choose the right pathway for your learning needs<br>Learn at your own speed, wherever and whenever you want</p>
     <p align="center"><a href="./fundamentals/index-fundamentals.html"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learing path icon and link"><a/>
-    <p align="center"><a style="font-size:2.5em" href="./fundamentals/index-fundamentals.html">Fundamentals<a/>
+    <p style="font-size:2.5em" align="center"><a href="./fundamentals/index-fundamentals.html">Fundamentals<a/>
     <br><br>
     <p align="center"><a href="./manual-testing/index-manual-testing.html"><img src="/docs/assets/images/IconPathManual.png" alt="Manual testing learing path icon and link"><a/>
     <h2 align="center"><a href="./manual-testing/index-manual-testing.html">Manual Testing<a/>
