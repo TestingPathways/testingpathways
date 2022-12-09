@@ -1,103 +1,36 @@
-# just-the-docs-template
+# Welcome to Testing Pathways, the Open Source Testing Curriculum
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+Both the Testing Pathways website and the pathways contained within it are open source. This is very important to us, we want this project to be run by the testing community, to help the wider testing community grow and improve.  It should be noted that the content the pathways direct you to isn't within our control and also isn't open source, only the pathway itself. 
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+## What is a Testing Pathway
 
-More specifically, the created site:
+You can think of learning pathways as a guide, a trusted list of educational content links, where you are guided through them with the puprpose of each link building upon the lessons taught in the previous links.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+learning is broken up into bite sized chunks, gathering together the best free and affordable learning resources from all over the internet. 
 
-To get started with creating a site, just click "[use this template]"!
+You get to choose the path thats right for you, giving you the empowerment you need to upskill and shine as a test engineer and quality embassador. 
 
-After completing the creation of your new site on GitHub, update it as needed:
+## Free First
 
-## Replace the content of the template pages
+We take every effort to guide to free content first and foremost as we want good testing training to be available to everyone.  Adding links to high quality and useful paid content is also ok, but always add free options first.
 
-Update the following files to your own content:
+## Get Started Learning
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+Visit [Testing Pathways Website](http://www.testingpathways.com) and pick the pathway that suits you
 
-## Changing the version of the theme and/or Jekyll
+## How to Contribute
 
-Simply edit the relevant line(s) in the `Gemfile`.
+We're always looking for talented testers to add to the curriculum.  
 
-## Adding a plugin
+- If you've written a good tutorial or guide online, then please feel free to add it to one of our pathways if you think it will enhance a learners journey and experience.  
+- Have you recently learned something new, why not document what you found the most useful and add it to one of our pathways.
+- Do you train junior staff at work?  Then please, come and share your knowledge here too.
 
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
+The pathways are managed as pages within this website under the ./pathways/ folder. 
 
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+DETAILS OF HOW TO CHECKOUT AND DO PULL REQUESTS TO FOLLOW
 
-- Add the following to your site's `Gemfile`:
 
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
+## Webstite Template Style Guides
 
-- And add the following to your site's `_config.yml`:
-
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-  
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
-
-## Publishing your site on GitHub Pages
-
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
-
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
-
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
-
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+Visit [Just the Docs Documentation][Just the Docs] to learn more about how to use this theme when editing pages and pathways content.
