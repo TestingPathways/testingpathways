@@ -35,7 +35,7 @@ We're always looking for talented testers to add to the curriculum.
 
 The pathways are managed as pages within this website under the ./pathways/ folder. 
 
-DETAILS OF HOW TO CHECKOUT AND DO PULL REQUESTS TO FOLLOW
+DETAILS OF HOW TO CHECKOUT AND DO PULL REQUESTS TO BE ADDED HERE
 
 
 ## Webstite Template Style Guides
