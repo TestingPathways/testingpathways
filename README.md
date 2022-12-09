@@ -22,8 +22,8 @@ Visit [Testing Pathways Website](http://www.testingpathways.com) and pick the pa
 
 We're always looking for talented testers to add to the curriculum.  
 
-- If you've written a good tutorial or guide online, then please feel free to add it to one of our pathways if you think it will enhance a learners journey and experience.  
-- Have you recently learned something new, why not document what you found the most useful and add it to one of our pathways.
+- Have you written a good tutorial or guide online?  Then please feel free to add it to one of our pathways if you think it will enhance a learners journey and experience.  
+- Have you recently learned something new?  Why not document what you found the most useful and add it to one of our pathways.
 - Do you train junior staff at work?  Then please, come and share your knowledge here too.
 
 The pathways are managed as pages within this website under the ./pathways/ folder. 
