@@ -5,6 +5,8 @@
     <br><br><br>
 </p>
 
+## Open Source
+
 Both the Testing Pathways website and the pathways contained within it are open source. This is very important to us, we want this project to be run by the testing community, to help the wider testing community grow and improve.  It should be noted that the content the pathways direct you to isn't within our control and also isn't open source, only the pathway itself. 
 
 ## What is a Testing Pathway
