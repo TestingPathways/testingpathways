@@ -33,4 +33,4 @@ DETAILS OF HOW TO CHECKOUT AND DO PULL REQUESTS TO FOLLOW
 
 ## Webstite Template Style Guides
 
-Visit [Just the Docs Documentation][Just the Docs] to learn more about how to use this theme when editing pages and pathways content.
+Visit [Just the Docs Documentation](https://just-the-docs.github.io/just-the-docs/) to learn more about how to use this theme when editing pages and pathways content.
