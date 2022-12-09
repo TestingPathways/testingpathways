@@ -7,6 +7,7 @@ has_children: false
 
 <p align="center">
     <h1 align="center">Pick a Pathway</h1>
+    <br><br>
     <p align="center">You choose the right pathway for your learning needs<br>Learn at your own speed, wherever and whenever you want</p>
     <p align="center"><a href="./fundamentals/index-fundamentals.md"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learing path icon and link"><a/></p>
     <h2 align="center"><a href="./fundamentals/index-fundamentals.md">Fundamentals<a/></h2>
