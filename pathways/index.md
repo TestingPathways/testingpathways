@@ -15,9 +15,9 @@ has_children: true
     <br><br>
     <p align="center" style="font-size:200%"><a href="./automated-testing/index-automated-testing.html"><img src="/docs/assets/images/IconPathAutomated.png" alt="Automated testing learing path icon and link"><a/><br><a href="./automated-testing/index-automated-testing.html">Automated Testing<a/>
     <br><br>
-    <p align="center" style="font-size:200%"><a href="./non-functional/index-non-functional.html"><img src="/docs/assets/images/IconPathNonFunctional.png" alt="Non functional testing learing path icon and link"><a/><br><a href="./non-functional/index-automated-testing.html">Non Functional Testing<a/>
+    <p align="center" style="font-size:200%"><a href="./non-functional-testing/index-non-functional-testing.html"><img src="/docs/assets/images/IconPathNonFunctional.png" alt="Non functional testing learing path icon and link"><a/><br><a href="./non-functional-testing/index-non-functional-testing.html">Non Functional Testing<a/>
     <br><br>
-    <p align="center" style="font-size:200%"><a href="./advanced/index-advanced.html"><img src="/docs/assets/images/IconPathAdvanced.png" alt="Advanced techniques learing path icon and link"><a/><br><a href="./advanced/index-advanced.html">Advanced Techniques<a/>
+    <p align="center" style="font-size:200%"><a href="./advanced-techniques/index-advanced-techniques.html"><img src="/docs/assets/images/IconPathAdvanced.png" alt="Advanced techniques learing path icon and link"><a/><br><a href="./advanced-techniques/index-advanced-techniques.html">Advanced Techniques<a/>
     <br><br>
     <p align="center" style="font-size:200%"><a href="./soft-skills/index-soft-skills.html"><img src="/docs/assets/images/IconPathSoftSkills.png" alt="Soft skills learing path icon and link"><a/><br><a href="./soft-skills/index-soft-skills.html">Soft Skills<a/>
     <br><br>
