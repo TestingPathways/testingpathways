@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated Testing
+title: Soft Skills
 parent: Pathways
 has_children: true
 nav_order: 6
