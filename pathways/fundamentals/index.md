@@ -8,7 +8,7 @@ has_toc: false
 ---
 
 <p align="center" style="font-size:200%"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learing path icon"><br>
-<h1>Fundamentals Learning Path
+<h1 align="center">Fundamentals Learning Path
 <br>
 
 Learn the fundamental knowledge needed to become a test engineer
