@@ -7,7 +7,9 @@ nav_order: 1
 has_toc: false
 ---
 
-# Fundamentals Learning Path
+<p align="center" style="font-size:200%"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learing path icon"><br>
+<h1>Fundamentals Learning Path
+<br>
 
 Learn the fundamental knowledge needed to become a test engineer
 
