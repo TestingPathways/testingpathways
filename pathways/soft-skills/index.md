@@ -6,8 +6,9 @@ has_children: true
 nav_order: 6
 has_toc: false
 ---
-
-# Soft Skills Learning Path
+<p align="center" style="font-size:200%"><img src="/docs/assets/images/IconPathSoftSkills.png" alt="Soft skills learning path icon"></p>
+<h1 align="center">Soft Skills Learning Path</h1>
+<br>
 
 {: .under-construction }
 > This section is awaiting content
