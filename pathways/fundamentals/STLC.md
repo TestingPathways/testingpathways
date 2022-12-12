@@ -9,7 +9,7 @@ has_toc: false
 
 # Software Testing Life Cycle (STLC)
 
-{: .highlight }
+{: .under-construction }
 > This section is awaiting content
 > 
 > If you've got any training material links which you think would be suitable to add to this pathway, please check out the [How To Contribute](../../how-to-contribute.html) section
