@@ -9,7 +9,7 @@ has_toc: false
 
 # Software Development Life Cycle (SDLC)
 
-{: .important-title }
+{: .note-title }
 > Under Construction
 >
 > This section is awaiting content.
