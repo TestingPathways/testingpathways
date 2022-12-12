@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Software Development Life Cycle
-parent: Pathways
-grand_parent: Fundamentals
+parent: Fundamentals
+grand_parent: Pathways
 nav_order: 1
 has_toc: false
 ---
