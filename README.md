@@ -50,7 +50,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/Testin
 3. Make the content fun and friendly to follow
 4. Make the content shine
 
-### Webstite Template Style Guides
+### Website Template Style Guides
 
 Visit [Just the Docs Documentation](https://just-the-docs.github.io/just-the-docs/) to learn more about how to use this theme when editing pages and pathways content.
 
