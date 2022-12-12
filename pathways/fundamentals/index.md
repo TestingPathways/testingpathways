@@ -7,7 +7,7 @@ nav_order: 1
 has_toc: false
 ---
 
-<p align="center" style="font-size:200%"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learing path icon"></p>
+<p align="center" style="font-size:200%"><img src="/docs/assets/images/IconPathFundamentals.png" alt="Fundamentals learning path icon"></p>
 <h1 align="center">Fundamentals Learning Path</h1>
 <br>
 
