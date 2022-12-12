@@ -6,8 +6,9 @@ has_children: true
 nav_order: 2
 has_toc: false
 ---
-
-# Manual Testing Leaning Path
+<p align="center" style="font-size:200%"><img src="/docs/assets/images/IconPathManual.png" alt="Manual testing learning path icon"></p>
+<h1 align="center">Manual Testing Learning Path</h1>
+<br>
 
 {: .under-construction }
 > This section is awaiting content
