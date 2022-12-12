@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software Development Life Cycle (SDLC)
+title: Software Development Life Cycle
 parent: Pathways
 grand_parent: Fundamentals
 nav_order: 1
