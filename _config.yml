@@ -6,3 +6,20 @@ url: https://TestingPathways.github.io
 
 aux_links:
   Template Repository: https://github.com/TestingPathways/testingpathways
+  
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  note:
+    title: Note
+    color: blue
+  new:
+    title: New
+    color: green
+  under-construction:
+    title: Under Construction
+    color: purple
+  warning:
+    title: Warning
+    color: red
