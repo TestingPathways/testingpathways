@@ -9,7 +9,6 @@ has_toc: false
 <p align="center" style="font-size:200%"><img src="/docs/assets/images/IconPathAutomated.png" alt="Automated testing learning path icon"></p>
 <h1 align="center">Automated Testing Learning Path</h1>
 <br>
-# Automated Testing Learning Path
 
 {: .under-construction }
 > This section is awaiting content
