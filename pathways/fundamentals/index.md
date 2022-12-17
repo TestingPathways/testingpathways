@@ -16,7 +16,7 @@ If you already know some of the subjects, then feel free to skip ahead to the on
 
 ## Prerequisites
 
-<i class="fa-solid fa-book-open"></i>  <a href="./computer_basics.html">Computer Basics<a/>
+<i class="fa-solid fa-book-open"></i>  <a href="./computer_basics.html">COMPUTER BASICS<a/>
 {: .fs-5 }
 
 {: .under-construction }
