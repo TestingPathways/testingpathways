@@ -11,7 +11,7 @@ has_toc: false
 <h1 align="center">Fundamentals Learning Path</h1>
 <br>
 
-Learn the fundamental knowledge needed to become a test engineer
+<i class="fa fa-cloud"></i>Learn the fundamental knowledge needed to become a test engineer
 
 {: .under-construction }
 > This section is awaiting content
