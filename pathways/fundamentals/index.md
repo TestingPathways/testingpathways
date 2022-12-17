@@ -15,7 +15,10 @@ This is where it all starts, getting you familiar with the basic concepts you'll
 
 ## Prerequisites
 
-<i class="fa-thin fa-book-open"></i> <a href="./SDLC.html">Computer Basics<a/>
+<i class="fa-solid fa-book-open"></i> <a href="./SDLC.html">Computer Basics<a/>
+{: .fs-5 }
+
+<i class="fa-solid fa-laptop-code"></i> <a href="./SDLC.html">Project: Create a test<a/>
 {: .fs-5 }
 
 {: .under-construction }
