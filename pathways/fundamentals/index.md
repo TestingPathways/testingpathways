@@ -16,10 +16,7 @@ If you already know some of the subjects, then feel free to skip ahead to the on
 
 ## Prerequisites
 
-<i class="fa-solid fa-book-open"></i>  <a href="./SDLC.html">Computer Basics<a/>
-{: .fs-5 }
-
-<i class="fa-solid fa-laptop-code"></i>  <a href="./SDLC.html">Project: Create a test<a/>
+<i class="fa-solid fa-book-open"></i>  <a href="./computer_basics.html">Computer Basics<a/>
 {: .fs-5 }
 
 {: .under-construction }
