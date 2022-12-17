@@ -20,6 +20,6 @@ If you already know some of the subjects, then feel free to skip ahead to the on
 {: .fs-5 }
 
 {: .under-construction }
-> This section is under content
+> This section is under construction
 > 
 > If you've got any training material links which you think would be suitable to add to this pathway, please check out the [How To Contribute](../../how-to-contribute.html) section
