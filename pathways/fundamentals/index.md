@@ -11,9 +11,13 @@ has_toc: false
 <h1 align="center">Fundamentals Learning Path</h1>
 <br>
 
-<i class="fa fa-cloud"></i>Learn the fundamental knowledge needed to become a test engineer
+This is where it all starts, getting you familiar with the basic concepts you'll need to know as a test engineer.  If you already know some of the subjects, then feel free to skip ahead to the ones your need to learn.
+
+# Prerequisites
+
+<i class="fa fa-map-signs"></i> <a href="./SDLC.html">Computer Basics<a/>
 
 {: .under-construction }
-> This section is awaiting content
+> This section is under content
 > 
 > If you've got any training material links which you think would be suitable to add to this pathway, please check out the [How To Contribute](../../how-to-contribute.html) section
