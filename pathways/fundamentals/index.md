@@ -13,9 +13,10 @@ has_toc: false
 
 This is where it all starts, getting you familiar with the basic concepts you'll need to know as a test engineer.  If you already know some of the subjects, then feel free to skip ahead to the ones your need to learn.
 
-# Prerequisites
+## Prerequisites
 
-<i class="fa fa-map-signs"></i> <a href="./SDLC.html">Computer Basics<a/>
+<i class="fa-thin fa-book-open"></i> <a href="./SDLC.html">Computer Basics<a/>
+{: .fs-5 }
 
 {: .under-construction }
 > This section is under content
