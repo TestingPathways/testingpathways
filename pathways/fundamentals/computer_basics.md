@@ -45,9 +45,9 @@ The following links are a good starting point, you're more than welcome to explo
 ## Knowledge Check
 
 - What is the difference between hardware and software?
-- Can your PC work without an Operating System
-- Is this website open or closed source
-- Which shortcut key on your computer takes a screenshot
+- Can your PC work without an Operating System?
+- Is this website open or closed source?
+- Which shortcut key on your computer takes a screenshot?
 - Think of your passwords, are they strong? (If not, go change them now!)
 
 ## Additional Resources
