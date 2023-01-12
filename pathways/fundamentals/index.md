@@ -14,7 +14,10 @@ has_toc: false
 This is where it all starts, getting you familiar with the basic concepts you'll need to know as a test engineer.
 If you already know some of the subjects, then feel free to skip ahead to the ones you need to learn.
 
-A lot of the information in this fundamentals section has been taken from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations), another open source learning website, aimed at developers, however a lot of the fundamentals are the same.
+## Introduction
+
+<i class="fa-solid fa-book-open-reader"></i>  <a href="./how-learning-pathways-work.html">How Learning Pathways Work<a/>
+{: .fs-5 }
 
 ## Prerequisites
 
