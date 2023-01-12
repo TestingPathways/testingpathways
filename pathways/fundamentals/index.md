@@ -21,6 +21,9 @@ A lot of the information in this fundamentals section has been taken from [The O
 <i class="fa-solid fa-book-open"></i>  <a href="./computer_basics.html">Computer Basics<a/>
 {: .fs-5 }
 
+<i class="fa-solid fa-book-open"></i>  <a href="./how-the-web-works.html">How the Web Works<a/>
+{: .fs-5 }
+
 
 {: .under-construction }
 > This section is under construction
