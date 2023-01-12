@@ -18,10 +18,10 @@ A lot of the information in this fundamentals section has been taken from [The O
 
 ## Prerequisites
 
-<i class="fal fa-book-open"></i>  <a href="./computer_basics.html">Computer Basics<a/>
+<i class="far fa-book-open"></i>  <a href="./computer_basics.html">Computer Basics<a/>
 {: .fs-5 }
 
-<i class="fal fa-book-open"></i>  <a href="./how-the-web-works.html">How the Web Works<a/>
+<i class="far fa-book-open"></i>  <a href="./how-the-web-works.html">How the Web Works<a/>
 {: .fs-5 }
 
 
